@@ -1,0 +1,14 @@
+{
+    "name": "lidemo/datopian-php-web-scraper",
+    "description": "A php web scraper based on the Datopian developer challenge",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Georgi Georgiev",
+            "email": "ggeorgiev15@gmail.com"
+        }
+    ],
+    "require": {
+        "fabpot/goutte": "^4.0"
+    }
+}
